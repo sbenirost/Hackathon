@@ -1,0 +1,1477 @@
+﻿Log file open, 11/17/19 21:11:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FrendsInDisaster
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.514101
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Engines/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Engine.ini]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Engine.ini]
+[2019.11.17-18.11.14:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Engine.ini]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Engine.ini]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.17-18.11.14:071][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.17-18.11.14:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Engine.ini]
+[2019.11.17-18.11.14:072][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Engine.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.17-18.11.14:075][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.17-18.11.14:076][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.17-18.11.14:076][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.17-18.11.14:086][  0]LogHAL: Display: Platform has ~ 32 GB [34274938880 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.17-18.11.14:086][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.17-18.11.14:086][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.17-18.11.14:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.17-18.11.14:087][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Config/Windows/Engine.ini]
+[2019.11.17-18.11.14:087][  0]LogInit: Computer: DESKTOP-GQRNOJT
+[2019.11.17-18.11.14:087][  0]LogInit: User: Listo
+[2019.11.17-18.11.14:087][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.11.17-18.11.14:087][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.17-18.11.14:088][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.17-18.11.14:088][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.17-18.11.14:088][  0]LogMemory: Process Physical Memory: 100.44 MB used, 100.44 MB peak
+[2019.11.17-18.11.14:088][  0]LogMemory: Process Virtual Memory: 89.97 MB used, 89.97 MB peak
+[2019.11.17-18.11.14:088][  0]LogMemory: Physical Memory: 6938.19 MB used,  25748.94 MB free, 32687.13 MB total
+[2019.11.17-18.11.14:088][  0]LogMemory: Virtual Memory: 4676.15 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.11.17-18.11.14:271][  0]LogInit: Using OS detected language (ru-RU).
+[2019.11.17-18.11.14:271][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.11.17-18.11.14:271][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.11.17-18.11.14:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.11.17-18.11.14:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.11.17-18.11.14:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.11.17-18.11.14:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.11.17-18.11.14:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.11.17-18.11.14:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.11.17-18.11.14:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.11.17-18.11.14:272][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.17-18.11.14:289][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.17-18.11.14:289][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.17-18.11.14:410][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.17-18.11.14:410][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.17-18.11.14:479][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2019.11.17-18.11.14:479][  0]LogD3D11RHI:       11049/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.17-18.11.14:480][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.17-18.11.14:480][  0]LogD3D11RHI:       0/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.17-18.11.14:480][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.17-18.11.14:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.17-18.11.14:487][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.17-18.11.14:487][  0]LogWindows: EnumDisplayDevices:
+[2019.11.17-18.11.14:487][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2019.11.17-18.11.14:488][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.11.17-18.11.14:488][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.11.17-18.11.14:488][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.11.17-18.11.14:488][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.17-18.11.14:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2019.11.17-18.11.14:488][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2019.11.17-18.11.14:488][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2019.11.17-18.11.14:488][  0]LogRHI: Texture pool is 7734 MB (70% of 11049 MB)
+[2019.11.17-18.11.14:522][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.17-18.11.14:535][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.17-18.11.14:535][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.17-18.11.14:535][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.17-18.11.14:542][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.17-18.11.14:761][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.17-18.11.14:772][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.17-18.11.14:782][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.17-18.11.14:793][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.17-18.11.14:803][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.17-18.11.14:814][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.17-18.11.14:824][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.17-18.11.14:835][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.17-18.11.14:839][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.17-18.11.14:903][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.17-18.11.14:904][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.17-18.11.14:947][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.17-18.11.14:947][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.17-18.11.14:966][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.17-18.11.14:966][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.17-18.11.14:976][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.17-18.11.14:985][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.17-18.11.14:994][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.17-18.11.15:003][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.17-18.11.15:035][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.17-18.11.15:035][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.17-18.11.15:035][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.17-18.11.15:041][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.17-18.11.15:067][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Intermediate/Shaders/WorkingDirectory/4680/).
+[2019.11.17-18.11.15:067][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Listo/AppData/Local/Temp/UnrealShaderWorkingDir/E4F05BB2420C1E7187DD9FA6290C7058/'.
+[2019.11.17-18.11.15:068][  0]LogXGEController: Cleaning working directory: C:/Users/Listo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.17-18.11.15:068][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.17-18.11.15:069][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.17-18.11.15:069][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.17-18.11.15:479][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.17-18.11.15:516][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Listo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.17-18.11.15:516][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Listo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.17-18.11.15:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.17-18.11.15:516][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.17-18.11.15:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.17-18.11.15:516][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.17-18.11.15:525][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.17-18.11.15:525][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.17-18.11.15:525][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.17-18.11.15:537][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Listo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.17-18.11.15:537][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.17-18.11.15:537][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.17-18.11.15:555][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.17-18.11.15:556][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.17-18.11.15:556][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.17-18.11.15:621][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.11.17-18.11.15:847][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.17-18.11.15:936][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.17-18.11.15:936][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.17-18.11.15:936][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.17-18.11.15:936][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.17-18.11.15:936][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.17-18.11.15:949][  0]LogNetVersion: FrendsInDisaster 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 964224784)
+[2019.11.17-18.11.16:223][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.024313 seconds
+[2019.11.17-18.11.16:227][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.17-18.11.16:227][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.17-18.11.16:227][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.17-18.11.16:766][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.17-18.11.16:778][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.17-18.11.16:867][  0]SourceControl: Source control is disabled
+[2019.11.17-18.11.16:867][  0]SourceControl: Source control is disabled
+[2019.11.17-18.11.16:868][  0]SourceControl: Source control is disabled
+[2019.11.17-18.11.16:868][  0]SourceControl: Source control is disabled
+[2019.11.17-18.11.16:910][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.17-18.11.18:366][  0]LogOcInput: OculusInput pre-init called
+[2019.11.17-18.11.18:845][  0]LogEngine: Initializing Engine...
+[2019.11.17-18.11.18:846][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.17-18.11.18:847][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.17-18.11.18:999][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.17-18.11.19:006][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.17-18.11.19:035][  0]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.11.19:059][  0]LogInit: FAudioDevice initialized.
+[2019.11.17-18.11.19:060][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.17-18.11.19:100][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/Listo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.17-18.11.19:108][  0]LogInit: Texture streaming: Enabled
+[2019.11.17-18.11.19:118][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.17-18.11.19:131][  0]LogInit: Transaction tracking system initialized
+[2019.11.17-18.11.19:143][  0]BlueprintLog: New page: Editor Load
+[2019.11.17-18.11.19:182][  0]LocalizationService: Localization service is disabled
+[2019.11.17-18.11.19:387][  0]LogFileCache: Scanning file cache for directory 'D:/GitProjects/Hackathon/Project/FrendsInDisaster/Content/' took 0.01s
+[2019.11.17-18.11.19:387][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.17-18.11.19:387][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.17-18.11.19:494][  0]SourceControl: Source control is disabled
+[2019.11.17-18.11.19:494][  0]Cmd: MAP LOAD FILE="../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-18.11.19:494][  0]LightingResults: New page: Lighting Build
+[2019.11.17-18.11.19:495][  0]MapCheck: New page: Map Check
+[2019.11.17-18.11.19:495][  0]LightingResults: New page: Lighting Build
+[2019.11.17-18.11.19:518][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.17-18.11.19:650][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.11.17-18.11.19:650][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.11.17-18.11.19:656][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.11.17-18.11.19:656][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.11.17-18.11.19:657][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.11.17-18.11.19:657][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.11.17-18.11.19:657][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.11.17-18.11.19:657][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.11.17-18.11.19:661][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.11.17-18.11.19:661][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.11.17-18.11.19:661][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.11.17-18.11.19:758][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.17-18.11.19:765][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-18.11.19:790][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.11.17-18.11.19:790][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-18.11.19:791][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2019.11.17-18.11.19:791][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.297
+[2019.11.17-18.11.19:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.11.19:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.11.19:899][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.11.19:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.11.19:907][  0]LogCollectionManager: Loaded 0 collections in 0.000759 seconds
+[2019.11.17-18.11.19:921][  0]LogFileCache: Scanning file cache for directory 'D:/GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Collections/' took 0.01s
+[2019.11.17-18.11.19:921][  0]LogFileCache: Scanning file cache for directory 'D:/GitProjects/Hackathon/Project/FrendsInDisaster/Content/Developers/Listo/Collections/' took 0.00s
+[2019.11.17-18.11.19:921][  0]LogFileCache: Scanning file cache for directory 'D:/GitProjects/Hackathon/Project/FrendsInDisaster/Content/Collections/' took 0.00s
+[2019.11.17-18.11.19:921][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.17-18.11.19:928][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2732 classes and 659 folders.
+[2019.11.17-18.11.19:932][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.17-18.11.19:932][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.17-18.11.19:953][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.17-18.11.19:957][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.17-18.11.20:006][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.17-18.11.20:009][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.17-18.11.20:011][  0]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.17-18.11.20:056][  0]LogRenderer: Reallocating scene render targets to support 1212x672 Format 10 NumSamples 1 (Frame:1).
+[2019.11.17-18.11.20:144][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.17-18.11.20:144][  0]LogLoad: (Engine Initialization) Total time: 7.64 seconds
+[2019.11.17-18.11.20:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.17-18.11.20:177][  0]LogAssetRegistry: Asset discovery search completed in 4.5791 seconds
+[2019.11.17-18.11.20:179][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.17-18.11.20:179][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2019.11.17-18.11.20:180][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.17-18.11.20:192][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-18.11.20:251][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.17-18.11.21:493][  4]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.17-18.11.24:161][319]LogSlate: Window 'Message Log' being destroyed
+[2019.11.17-18.11.24:166][319]LogSlate: Window 'Message Log' being destroyed
+[2019.11.17-18.11.49:288][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.11.51:560][595]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.11.51:568][595]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1
+[2019.11.17-18.11.51:593][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.17-18.11.51:594][595]Cmd: MAP LOAD FILE="../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Content/ThirdPersonBP/MyMaps/01/Prototype_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-18.11.51:594][595]LightingResults: New page: Lighting Build
+[2019.11.17-18.11.51:595][595]LoadErrors: New page: Loading map: Prototype_1.umap
+[2019.11.17-18.11.51:596][595]MapCheck: New page: Map Check
+[2019.11.17-18.11.51:596][595]LightingResults: New page: Lighting Build
+[2019.11.17-18.11.51:621][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.11.17-18.11.51:677][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-18.11.51:701][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.11.17-18.11.51:729][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-18.11.51:729][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,055ms to complete.
+[2019.11.17-18.11.51:729][595]LogFileHelpers: Loading map 'Prototype_1' took 0.136
+[2019.11.17-18.11.53:806][837]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.11.17-18.11.55:042][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.11.55:819][ 68]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter2.ThirdPersonCharacter2
+[2019.11.17-18.11.55:996][ 68]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.11.17-18.11.56:608][ 68]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.17-18.11.56:669][ 69]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.17-18.12.22:024][ 91]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter2_C (ThirdPersonCharacter2)
+[2019.11.17-18.12.23:805][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.12.29:996][ 34]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.11.17-18.12.31:137][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.12.31:227][175]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.17-18.12.53:348][737]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1
+[2019.11.17-18.13.40:952][323]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.13.41:160][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.17-18.13.42:793][511]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.13.42:817][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.13.42:817][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.13.42:817][511]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:13:42)
+[2019.11.17-18.13.42:829][511]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.13.42:835][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005843s)
+[2019.11.17-18.13.42:835][511]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.13.42:835][511]LogPlayLevel: PIE: World Init took: (0.000399s)
+[2019.11.17-18.13.42:835][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006406s)
+[2019.11.17-18.13.42:864][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.17-18.13.42:883][511]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.13.42:892][511]LogInit: FAudioDevice initialized.
+[2019.11.17-18.13.42:899][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.13.42:941][511]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.13.42:944][511]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.13.42
+[2019.11.17-18.13.42:944][511]LogWorld: Bringing up level for play took: 0.001741
+[2019.11.17-18.13.42:956][511]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.13.42:957][511]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.17-18.13.42:958][511]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.17-18.13.42:958][511]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.11.17-18.13.42:959][511]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,508
+[2019.11.17-18.13.42:959][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.13.43:012][512]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.11.17-18.13.54:028][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.13.54:028][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.13.54:044][590]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.13.54:079][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.13.54:079][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.13.54:133][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.11.17-18.13.54:184][591]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.17-18.16.44:124][760]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.16.44:295][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.17-18.17.11:481][992]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.17.11:647][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.17-18.17.12:362][ 72]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.17.12:387][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.12:387][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.17.12:387][ 72]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:17:12)
+[2019.11.17-18.17.12:387][ 72]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.17.12:393][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005462s)
+[2019.11.17-18.17.12:393][ 72]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.17.12:393][ 72]LogPlayLevel: PIE: World Init took: (0.000423s)
+[2019.11.17-18.17.12:393][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005962s)
+[2019.11.17-18.17.12:422][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.11.17-18.17.12:439][ 72]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.17.12:448][ 72]LogInit: FAudioDevice initialized.
+[2019.11.17-18.17.12:455][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.17.12:483][ 72]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.17.12:486][ 72]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.17.12
+[2019.11.17-18.17.12:486][ 72]LogWorld: Bringing up level for play took: 0.001564
+[2019.11.17-18.17.12:498][ 72]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.17.12:499][ 72]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,047
+[2019.11.17-18.17.12:499][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.13:508][185]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:114).
+[2019.11.17-18.17.25:452][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.25:452][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.17.25:469][491]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.17.25:509][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.17.25:509][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.25:549][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.11.17-18.17.25:588][492]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.17-18.17.31:292][171]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.17.31:307][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.31:307][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.17.31:307][171]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:17:31)
+[2019.11.17-18.17.31:307][171]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.17.31:313][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005258s)
+[2019.11.17-18.17.31:313][171]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.17.31:313][171]LogPlayLevel: PIE: World Init took: (0.000362s)
+[2019.11.17-18.17.31:313][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005696s)
+[2019.11.17-18.17.31:344][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.17-18.17.31:360][171]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.17.31:368][171]LogInit: FAudioDevice initialized.
+[2019.11.17-18.17.31:375][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.17.31:408][171]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.17.31:410][171]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.17.31
+[2019.11.17-18.17.31:410][171]LogWorld: Bringing up level for play took: 0.001478
+[2019.11.17-18.17.31:424][171]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,973
+[2019.11.17-18.17.31:425][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.34:637][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.34:637][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.17.34:653][551]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.17.34:691][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.17.34:691][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.17.34:729][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.11.17-18.17.34:741][552]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.17-18.17.49:651][329]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.17.49:812][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.17-18.18.04:116][ 10]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.18.04:280][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.17-18.18.04:855][ 72]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.18.04:879][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.04:879][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.18.04:879][ 72]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:18:04)
+[2019.11.17-18.18.04:879][ 72]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.18.04:884][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004930s)
+[2019.11.17-18.18.04:885][ 72]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.18.04:885][ 72]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.11.17-18.18.04:885][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005499s)
+[2019.11.17-18.18.04:914][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.17-18.18.04:932][ 72]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.18.04:940][ 72]LogInit: FAudioDevice initialized.
+[2019.11.17-18.18.04:947][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.18.04:981][ 72]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.18.04:984][ 72]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.18.04
+[2019.11.17-18.18.04:984][ 72]LogWorld: Bringing up level for play took: 0.001827
+[2019.11.17-18.18.04:996][ 72]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.18.04:997][ 72]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,545
+[2019.11.17-18.18.04:997][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.16:442][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.16:442][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.18.16:458][436]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.18.16:501][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.18.16:501][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.16:534][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.11.17-18.18.16:578][437]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.17-18.18.19:904][836]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.18.20:063][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.11.17-18.18.24:701][386]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.18.24:865][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.17-18.18.34:029][457]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.18.34:198][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.17-18.18.35:264][579]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.18.35:289][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.35:290][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.18.35:290][579]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:18:35)
+[2019.11.17-18.18.35:290][579]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.18.35:295][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004997s)
+[2019.11.17-18.18.35:295][579]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.18.35:295][579]LogPlayLevel: PIE: World Init took: (0.000354s)
+[2019.11.17-18.18.35:295][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005425s)
+[2019.11.17-18.18.35:325][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.17-18.18.35:342][579]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.18.35:349][579]LogInit: FAudioDevice initialized.
+[2019.11.17-18.18.35:356][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.18.35:387][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.18.35:389][579]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.18.35
+[2019.11.17-18.18.35:390][579]LogWorld: Bringing up level for play took: 0.001672
+[2019.11.17-18.18.35:401][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.18.35:402][579]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,95
+[2019.11.17-18.18.35:402][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.36:301][681]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.18.36:643][722]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.18.36:801][741]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.18.36:926][756]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.18.37:076][774]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.18.38:585][955]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.18.39:852][107]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.18.40:486][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.40:487][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.18.40:502][183]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.18.40:541][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.18.40:541][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.18.40:576][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.17-18.18.40:617][184]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.17-18.19.10:007][687]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.19.10:174][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.17-18.19.17:517][562]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.19.17:542][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.17:542][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.19.17:542][562]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:19:17)
+[2019.11.17-18.19.17:542][562]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.19.17:548][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006038s)
+[2019.11.17-18.19.17:549][562]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.19.17:549][562]LogPlayLevel: PIE: World Init took: (0.000387s)
+[2019.11.17-18.19.17:549][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006518s)
+[2019.11.17-18.19.17:580][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.17-18.19.17:597][562]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.19.17:605][562]LogInit: FAudioDevice initialized.
+[2019.11.17-18.19.17:611][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.17:640][562]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.19.17:642][562]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.19.17
+[2019.11.17-18.19.17:643][562]LogWorld: Bringing up level for play took: 0.001904
+[2019.11.17-18.19.17:655][562]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.19.17:656][562]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,796
+[2019.11.17-18.19.17:656][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.24:500][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.24:500][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.24:517][378]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.19.24:559][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.19.24:559][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.24:596][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.17-18.19.24:644][379]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.17-18.19.25:436][474]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.19.25:451][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.25:451][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.19.25:451][474]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:19:25)
+[2019.11.17-18.19.25:451][474]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.19.25:458][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006492s)
+[2019.11.17-18.19.25:459][474]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.19.25:459][474]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.11.17-18.19.25:459][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.007079s)
+[2019.11.17-18.19.25:490][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.11.17-18.19.25:507][474]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.19.25:514][474]LogInit: FAudioDevice initialized.
+[2019.11.17-18.19.25:521][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.25:547][474]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.19.25:550][474]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.19.25
+[2019.11.17-18.19.25:550][474]LogWorld: Bringing up level for play took: 0.002135
+[2019.11.17-18.19.25:561][474]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.19.25:563][474]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 1,112
+[2019.11.17-18.19.25:564][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.27:936][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.27:936][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.27:952][758]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.19.27:996][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.19.27:996][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.28:030][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.11.17-18.19.28:075][759]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.17-18.19.38:843][  9]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.19.39:006][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.17-18.19.39:915][112]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.19.39:939][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.39:939][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.19.39:939][112]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:19:39)
+[2019.11.17-18.19.39:939][112]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.19.39:943][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005209s)
+[2019.11.17-18.19.39:943][112]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.19.39:943][112]LogPlayLevel: PIE: World Init took: (0.000365s)
+[2019.11.17-18.19.39:944][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005666s)
+[2019.11.17-18.19.39:972][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.17-18.19.39:990][112]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.19.39:999][112]LogInit: FAudioDevice initialized.
+[2019.11.17-18.19.40:006][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.40:038][112]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.19.40:040][112]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.19.40
+[2019.11.17-18.19.40:041][112]LogWorld: Bringing up level for play took: 0.001754
+[2019.11.17-18.19.40:053][112]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.19.40:054][112]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,397
+[2019.11.17-18.19.40:054][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.41:174][242]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.19.42:690][424]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.19.44:499][641]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.19.44:883][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.44:883][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.44:899][687]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.19.44:939][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.19.44:939][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.44:978][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.11.17-18.19.45:019][688]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.17-18.19.45:827][785]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.19.45:843][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.45:843][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.19.45:843][785]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:19:45)
+[2019.11.17-18.19.45:843][785]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.19.45:849][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005750s)
+[2019.11.17-18.19.45:850][785]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.19.45:850][785]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2019.11.17-18.19.45:850][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006342s)
+[2019.11.17-18.19.45:879][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.17-18.19.45:897][785]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.19.45:905][785]LogInit: FAudioDevice initialized.
+[2019.11.17-18.19.45:911][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.45:942][785]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.19.45:944][785]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.19.45
+[2019.11.17-18.19.45:945][785]LogWorld: Bringing up level for play took: 0.002264
+[2019.11.17-18.19.45:957][785]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.19.45:959][785]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,493
+[2019.11.17-18.19.45:959][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.48:803][119]LogBlueprintUserMessages: [ThirdPersonCharacter_2] Hello
+[2019.11.17-18.19.50:146][280]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.50:146][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.19.50:162][280]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.19.50:200][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.19.50:200][280]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.19.50:240][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.11.17-18.19.50:283][281]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.17-18.20.12:097][845]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.20.12:262][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.11.17-18.20.13:129][943]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.20.13:154][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.13:154][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.20.13:154][943]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:20:13)
+[2019.11.17-18.20.13:154][943]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.20.13:159][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004983s)
+[2019.11.17-18.20.13:160][943]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.20.13:160][943]LogPlayLevel: PIE: World Init took: (0.000425s)
+[2019.11.17-18.20.13:160][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005481s)
+[2019.11.17-18.20.13:191][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.17-18.20.13:208][943]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.20.13:216][943]LogInit: FAudioDevice initialized.
+[2019.11.17-18.20.13:222][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.20.13:249][943]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.20.13:252][943]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.20.13
+[2019.11.17-18.20.13:252][943]LogWorld: Bringing up level for play took: 0.001801
+[2019.11.17-18.20.13:264][943]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.20.13:265][943]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,814
+[2019.11.17-18.20.13:265][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.19:535][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.19:535][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.20.19:551][691]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.20.19:593][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.20.19:593][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.19:632][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.11.17-18.20.19:676][692]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.17-18.20.24:018][210]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.20.24:176][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.17-18.20.24:928][294]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.20.24:951][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.24:951][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.20.24:951][294]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:20:24)
+[2019.11.17-18.20.24:952][294]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.20.24:958][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006239s)
+[2019.11.17-18.20.24:958][294]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.20.24:958][294]LogPlayLevel: PIE: World Init took: (0.000366s)
+[2019.11.17-18.20.24:958][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006704s)
+[2019.11.17-18.20.24:988][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.17-18.20.25:006][294]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.20.25:013][294]LogInit: FAudioDevice initialized.
+[2019.11.17-18.20.25:021][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.20.25:050][294]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.20.25:052][294]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.20.25
+[2019.11.17-18.20.25:053][294]LogWorld: Bringing up level for play took: 0.001596
+[2019.11.17-18.20.25:065][294]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.20.25:066][294]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,615
+[2019.11.17-18.20.25:066][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.38:067][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.38:067][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.20.38:083][849]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.20.38:120][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.20.38:120][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.20.38:159][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.11.17-18.20.38:205][850]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.17-18.20.42:158][323]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.20.42:311][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.11.17-18.21.11:926][868]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.21.12:083][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.17-18.23.46:508][164]LogEditorTransaction: Undo Move Node
+[2019.11.17-18.23.47:100][224]LogEditorTransaction: Undo Move Node
+[2019.11.17-18.23.47:651][283]LogEditorTransaction: Undo Move Nodes
+[2019.11.17-18.25.36:900][342]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.25.37:061][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.11.17-18.25.40:115][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.25.40:141][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.40:141][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.25.40:141][700]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:25:40)
+[2019.11.17-18.25.40:141][700]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.25.40:146][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005283s)
+[2019.11.17-18.25.40:147][700]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.25.40:147][700]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2019.11.17-18.25.40:147][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005885s)
+[2019.11.17-18.25.40:180][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.17-18.25.40:197][700]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.25.40:205][700]LogInit: FAudioDevice initialized.
+[2019.11.17-18.25.40:213][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.25.40:239][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.25.40:241][700]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.25.40
+[2019.11.17-18.25.40:241][700]LogWorld: Bringing up level for play took: 0.002306
+[2019.11.17-18.25.40:253][700]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.25.40:254][700]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,197
+[2019.11.17-18.25.40:254][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.47:201][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.47:201][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.25.47:217][526]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.25.47:258][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.25.47:258][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.47:295][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.17-18.25.47:341][527]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.11.17-18.25.52:184][108]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.25.52:198][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.52:198][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.25.52:199][108]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:25:52)
+[2019.11.17-18.25.52:199][108]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.25.52:204][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005486s)
+[2019.11.17-18.25.52:205][108]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.25.52:205][108]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2019.11.17-18.25.52:205][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006070s)
+[2019.11.17-18.25.52:233][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.11.17-18.25.52:251][108]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.25.52:259][108]LogInit: FAudioDevice initialized.
+[2019.11.17-18.25.52:266][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.25.52:295][108]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.25.52:298][108]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.25.52
+[2019.11.17-18.25.52:298][108]LogWorld: Bringing up level for play took: 0.001698
+[2019.11.17-18.25.52:310][108]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.25.52:312][108]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,14
+[2019.11.17-18.25.52:312][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.59:898][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.59:898][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.25.59:914][ 17]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.25.59:954][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.25.59:954][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.25.59:991][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.11.17-18.26.00:037][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.11.17-18.26.26:232][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.11.17-18.26.26:481][153]LogSavePackage: Moving '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Prototype_1_Auto18BEA6F724ACF95A4581757894406D31D.tmp' to '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Autosaves/Game/ThirdPersonBP/MyMaps/01/Prototype_1_Auto1.umap'
+[2019.11.17-18.26.26:484][153]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/MyMaps/01/Prototype_1' took 0.278
+[2019.11.17-18.26.26:484][153]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.278
+[2019.11.17-18.26.26:485][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.11.17-18.26.26:501][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.11.17-18.26.26:501][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.11.17-18.26.26:550][153]LogSavePackage: Moving '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/ThirdPersonCharacter_Auto14B1181DB41EB25724697C3839493C7D7.tmp' to '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2019.11.17-18.26.26:551][153]LogFileHelpers: Auto-saving content packages took 0.066
+[2019.11.17-18.27.40:854][971]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.27.41:022][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.17-18.27.41:935][ 73]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.27.41:962][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.27.41:962][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.27.41:962][ 73]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:27:41)
+[2019.11.17-18.27.41:962][ 73]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.27.41:968][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006080s)
+[2019.11.17-18.27.41:969][ 73]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.27.41:969][ 73]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2019.11.17-18.27.41:969][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006750s)
+[2019.11.17-18.27.42:001][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.17-18.27.42:018][ 73]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.27.42:026][ 73]LogInit: FAudioDevice initialized.
+[2019.11.17-18.27.42:034][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.27.42:064][ 73]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.27.42:066][ 73]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.27.42
+[2019.11.17-18.27.42:067][ 73]LogWorld: Bringing up level for play took: 0.002082
+[2019.11.17-18.27.42:079][ 73]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.27.42:080][ 73]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,371
+[2019.11.17-18.27.42:080][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.27.53:419][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.27.53:419][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.27.53:434][422]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.27.53:479][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.27.53:479][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.27.53:521][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.17-18.27.53:568][423]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.11.17-18.27.57:307][870]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.27.57:468][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.11.17-18.29.11:291][600]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.29.11:459][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.11.17-18.29.12:192][680]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.29.12:219][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.29.12:219][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.29.12:219][680]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:29:12)
+[2019.11.17-18.29.12:219][680]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.29.12:225][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005288s)
+[2019.11.17-18.29.12:225][680]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.29.12:225][680]LogPlayLevel: PIE: World Init took: (0.000378s)
+[2019.11.17-18.29.12:225][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005740s)
+[2019.11.17-18.29.12:255][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.11.17-18.29.12:274][680]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.29.12:282][680]LogInit: FAudioDevice initialized.
+[2019.11.17-18.29.12:289][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.29.12:316][680]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.29.12:318][680]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.29.12
+[2019.11.17-18.29.12:319][680]LogWorld: Bringing up level for play took: 0.001819
+[2019.11.17-18.29.12:331][680]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.29.12:332][680]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,12
+[2019.11.17-18.29.12:332][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.30.56:700][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.30.56:700][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.30.56:716][130]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.30.56:761][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.30.56:761][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.30.56:799][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.11.17-18.30.56:848][131]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.11.17-18.31.06:038][233]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.31.06:052][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.06:052][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.31.06:052][233]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:31:06)
+[2019.11.17-18.31.06:052][233]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.31.06:058][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005726s)
+[2019.11.17-18.31.06:058][233]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.31.06:058][233]LogPlayLevel: PIE: World Init took: (0.000363s)
+[2019.11.17-18.31.06:058][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006165s)
+[2019.11.17-18.31.06:084][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.11.17-18.31.06:102][233]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.31.06:110][233]LogInit: FAudioDevice initialized.
+[2019.11.17-18.31.06:117][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.31.06:147][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.31.06:149][233]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.31.06
+[2019.11.17-18.31.06:150][233]LogWorld: Bringing up level for play took: 0.001796
+[2019.11.17-18.31.06:162][233]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.31.06:164][233]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,287
+[2019.11.17-18.31.06:164][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.16:087][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.16:087][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.31.16:103][423]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.31.16:150][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.31.16:150][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.16:184][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.17-18.31.16:238][424]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.11.17-18.31.20:221][902]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.31.20:236][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.20:236][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.31.20:237][902]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:31:20)
+[2019.11.17-18.31.20:237][902]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.31.20:242][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005648s)
+[2019.11.17-18.31.20:243][902]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.31.20:243][902]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.11.17-18.31.20:243][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006200s)
+[2019.11.17-18.31.20:272][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.17-18.31.20:289][902]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.31.20:298][902]LogInit: FAudioDevice initialized.
+[2019.11.17-18.31.20:305][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.31.20:336][902]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.31.20:338][902]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.31.20
+[2019.11.17-18.31.20:339][902]LogWorld: Bringing up level for play took: 0.001932
+[2019.11.17-18.31.20:351][902]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.31.20:353][902]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 -0,098
+[2019.11.17-18.31.20:354][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.34:788][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.34:788][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.31.34:805][514]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.31.34:849][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.31.34:849][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.31.34:888][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.11.17-18.31.34:941][515]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.11.17-18.31.45:420][766]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.31.45:587][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.11.17-18.32.20:946][956]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.32.20:970][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.32.20:971][956]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.17-18.32.20:972][956]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.11.17-18.32.21:151][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.11.17-18.32.21:151][956]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (1 blueprints)
+[2019.11.17-18.32.21:151][956]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:32:21)
+[2019.11.17-18.32.21:151][956]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.32.21:156][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005025s)
+[2019.11.17-18.32.21:156][956]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.32.21:157][956]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.11.17-18.32.21:157][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005764s)
+[2019.11.17-18.32.21:187][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.17-18.32.21:204][956]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.32.21:213][956]LogInit: FAudioDevice initialized.
+[2019.11.17-18.32.21:221][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.32.21:249][956]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.32.21:251][956]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.32.21
+[2019.11.17-18.32.21:252][956]LogWorld: Bringing up level for play took: 0.001650
+[2019.11.17-18.32.21:264][956]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.32.21:265][956]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,813
+[2019.11.17-18.32.21:265][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.32.30:328][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.32.30:328][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.32.30:342][ 24]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.32.30:377][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.32.30:377][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.32.30:413][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.11.17-18.32.30:433][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.11.17-18.34.12:372][127]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.34.12:540][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.17-18.34.13:121][189]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.34.13:147][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.34.13:147][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.34.13:148][189]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:34:13)
+[2019.11.17-18.34.13:148][189]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.34.13:153][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005296s)
+[2019.11.17-18.34.13:153][189]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.34.13:153][189]LogPlayLevel: PIE: World Init took: (0.000400s)
+[2019.11.17-18.34.13:153][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005770s)
+[2019.11.17-18.34.13:184][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.11.17-18.34.13:201][189]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.34.13:209][189]LogInit: FAudioDevice initialized.
+[2019.11.17-18.34.13:215][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.34.13:248][189]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.34.13:251][189]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.34.13
+[2019.11.17-18.34.13:251][189]LogWorld: Bringing up level for play took: 0.002104
+[2019.11.17-18.34.13:263][189]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.34.13:264][189]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,813
+[2019.11.17-18.34.13:265][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.35.06:810][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.35.06:810][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.35.06:827][931]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.35.06:870][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.35.06:870][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.35.06:912][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.17-18.35.06:963][932]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.11.17-18.35.42:508][153]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.35.42:675][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.11.17-18.35.47:433][717]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.35.47:601][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.11.17-18.35.52:571][304]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.35.52:599][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.35.52:599][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.35.52:599][304]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:35:52)
+[2019.11.17-18.35.52:599][304]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.35.52:604][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005344s)
+[2019.11.17-18.35.52:604][304]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.35.52:605][304]LogPlayLevel: PIE: World Init took: (0.000406s)
+[2019.11.17-18.35.52:605][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005823s)
+[2019.11.17-18.35.52:636][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.17-18.35.52:652][304]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.35.52:660][304]LogInit: FAudioDevice initialized.
+[2019.11.17-18.35.52:667][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.35.52:698][304]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.35.52:701][304]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.35.52
+[2019.11.17-18.35.52:701][304]LogWorld: Bringing up level for play took: 0.002185
+[2019.11.17-18.35.52:713][304]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.35.52:714][304]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,262
+[2019.11.17-18.35.52:714][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.35.54:531][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.35.54:531][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.35.54:547][517]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.35.54:592][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.35.54:592][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.35.54:630][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.11.17-18.35.54:686][518]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.11.17-18.35.57:343][835]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.35.57:509][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.17-18.36.05:232][749]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.36.05:398][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.17-18.36.06:881][907]LogSavePackage: Moving '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/ThirdPersonCharacterBF4BE7A2457C5DE9936F45B987B30EAC.tmp' to '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.11.17-18.36.12:843][615]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.36.13:006][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.17-18.38.34:346][555]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.17-18.38.34:346][555]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.17-18.38.44:364][757]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.38.44:537][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.11.17-18.40.42:343][837]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.17-18.40.42:343][837]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.17-18.42.18:164][132]BlueprintLog: New page: Compile Prototype_1
+[2019.11.17-18.42.18:177][132]LogBlueprint: Error: [Compiler PersistentLevel.Prototype_1] Found more than one function with the same name GameFinished_Event; second occurance at  GameFinished_Event
+[2019.11.17-18.42.18:178][132]LogBlueprint: Error: [Compiler PersistentLevel.Prototype_1] Event Dispatcher pin is not connected  Bind Event to GameFinished
+[2019.11.17-18.42.18:350][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.17-18.42.18:368][132]LogBlueprint: Warning: [Compiler PersistentLevel.Prototype_1] [1865,87] Compile of PersistentLevel.Prototype_1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1)
+[2019.11.17-18.42.37:481][384]BlueprintLog: New page: Compile Prototype_1
+[2019.11.17-18.42.37:654][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.17-18.42.55:878][543]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.11.17-18.42.58:975][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.43.40:261][784]BlueprintLog: New page: Compile Prototype_1
+[2019.11.17-18.43.40:438][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.17-18.44.16:921][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.17-18.44.17:187][ 70]LogSavePackage: Moving '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Prototype_1_Auto23061C6E54AD1D9C5631BFDA3788AD4F0.tmp' to '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Autosaves/Game/ThirdPersonBP/MyMaps/01/Prototype_1_Auto2.umap'
+[2019.11.17-18.44.17:190][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/MyMaps/01/Prototype_1' took 0.297
+[2019.11.17-18.44.17:190][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.297
+[2019.11.17-18.44.17:193][ 70]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.11.17-18.44.17:209][ 70]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.11.17-18.44.17:209][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.11.17-18.44.17:264][ 70]LogSavePackage: Moving '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/ThirdPersonCharacter_Auto2F764A04C40A9FBF2EE3FE6832D44FC6D.tmp' to '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.11.17-18.44.17:265][ 70]LogFileHelpers: Auto-saving content packages took 0.072
+[2019.11.17-18.46.29:941][801]BlueprintLog: New page: Compile Prototype_1
+[2019.11.17-18.46.30:121][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.17-18.46.30:606][848]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.46.30:633][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.46.30:633][848]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.17-18.46.30:651][848]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.11.17-18.46.30:892][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.11.17-18.46.30:892][848]LogPlayLevel: PlayLevel: Blueprint regeneration took 260 ms (1 blueprints)
+[2019.11.17-18.46.30:893][848]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:46:30)
+[2019.11.17-18.46.30:893][848]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.46.30:899][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005370s)
+[2019.11.17-18.46.30:899][848]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.46.30:899][848]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2019.11.17-18.46.30:899][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.005914s)
+[2019.11.17-18.46.30:929][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.11.17-18.46.30:947][848]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.46.30:956][848]LogInit: FAudioDevice initialized.
+[2019.11.17-18.46.30:963][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.46.30:992][848]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.46.30:994][848]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.46.30
+[2019.11.17-18.46.30:995][848]LogWorld: Bringing up level for play took: 0.001898
+[2019.11.17-18.46.31:007][848]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.46.31:008][848]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 0,556
+[2019.11.17-18.46.31:008][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.46.40:863][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.46.40:863][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.46.40:879][ 13]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.46.40:930][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.46.40:930][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.46.40:967][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.11.17-18.46.41:052][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.11.17-18.46.42:652][206]BlueprintLog: New page: Compile Prototype_1
+[2019.11.17-18.46.42:826][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.17-18.46.44:744][425]BlueprintLog: New page: Compile Prototype_1
+[2019.11.17-18.46.44:921][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.17-18.47.28:829][683]BlueprintLog: New page: Compile Prototype_1
+[2019.11.17-18.47.29:006][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.11.17-18.47.30:065][794]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.47.30:258][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.17-18.47.32:009][992]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.11.17-18.47.33:978][221]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.11.17-18.47.33:993][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-18.47.34:839][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-18.48.09:331][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.48.49:441][136]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.48.52:266][265]LogAssetEditorManager: Opening Asset editor for Material /Game/Mannequin/Character/Materials/M_UE4Man_Body_2.M_UE4Man_Body_2
+[2019.11.17-18.48.52:271][265]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.48.52:318][265]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.17-18.48.52:591][265]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.48.52:634][265]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.17-18.48.52:637][265]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.48.52:710][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.11.17-18.48.52:716][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2019.11.17-18.48.52:723][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.11.17-18.48.52:788][265]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.11.17-18.48.53:034][282]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.17-18.48.53:302][311]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.11.17-18.48.53:544][334]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.11.17-18.48.53:811][363]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.11.17-18.48.54:182][399]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.11.17-18.48.54:430][425]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.11.17-18.48.54:616][443]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.17-18.48.54:904][471]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.17-18.48.55:189][498]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.17-18.48.55:430][518]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.17-18.48.55:585][533]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.17-18.48.55:884][561]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.17-18.48.56:422][611]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.11.17-18.48.56:422][611]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.11.17-18.48.56:422][611]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.11.17-18.48.56:422][611]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2019.11.17-18.48.56:422][611]MaterialEditorStats: Texture samplers: 5/16
+[2019.11.17-18.48.56:422][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.17-18.48.56:422][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.17-18.49.20:507][498]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.49.20:551][498]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.17-18.49.20:554][498]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2019.11.17-18.49.21:010][542]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.11.17-18.49.21:158][556]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.11.17-18.49.21:325][571]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.11.17-18.49.21:837][605]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.11.17-18.49.22:042][614]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.11.17-18.49.22:238][629]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.17-18.49.22:437][645]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.17-18.49.22:892][682]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.17-18.49.23:102][700]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.17-18.49.23:256][714]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.17-18.49.23:444][730]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.17-18.49.24:135][795]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.11.17-18.49.24:135][795]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.11.17-18.49.24:135][795]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.11.17-18.49.24:135][795]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2019.11.17-18.49.24:135][795]MaterialEditorStats: Texture samplers: 5/16
+[2019.11.17-18.49.24:135][795]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.17-18.49.24:135][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.17-18.49.25:856][  1]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.49.25:895][  1]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.17-18.49.25:898][  1]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2019.11.17-18.49.25:925][  1]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.17-18.49.26:148][ 21]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.11.17-18.49.26:297][ 37]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.11.17-18.49.26:479][ 56]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.11.17-18.49.26:932][100]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.11.17-18.49.27:118][119]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.11.17-18.49.27:284][136]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.17-18.49.27:473][155]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.17-18.49.27:878][191]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.17-18.49.28:081][211]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.17-18.49.28:237][226]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.17-18.49.28:417][243]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.17-18.49.28:914][287]LogMaterialEditor: Applying material M_UE4Man_Body_2
+[2019.11.17-18.49.29:226][287]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.49.29:310][287]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.17-18.49.29:322][287]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.49.29:368][287]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body_2, compiling. 
+[2019.11.17-18.49.29:479][287]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2019.11.17-18.49.29:489][287]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.11.17-18.49.31:999][287]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.11.17-18.49.32:003][287]TextureStreamingBuild: Display: Compiling optional shaders took 2.523 seconds.
+[2019.11.17-18.49.32:279][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.11.17-18.49.35:144][545]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.11.17-18.49.35:144][545]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.11.17-18.49.35:144][545]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.11.17-18.49.35:144][545]MaterialEditorStats: Base pass vertex shader: 148 instructions
+[2019.11.17-18.49.35:144][545]MaterialEditorStats: Texture samplers: 5/16
+[2019.11.17-18.49.35:144][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.17-18.49.35:144][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.17-18.49.35:318][566]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.49.35:344][566]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.49.35:344][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.49.35:344][566]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:49:35)
+[2019.11.17-18.49.35:345][566]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.49.35:351][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005723s)
+[2019.11.17-18.49.35:351][566]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.49.35:351][566]LogPlayLevel: PIE: World Init took: (0.000379s)
+[2019.11.17-18.49.35:351][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006229s)
+[2019.11.17-18.49.35:377][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.17-18.49.35:395][566]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.49.35:403][566]LogInit: FAudioDevice initialized.
+[2019.11.17-18.49.35:410][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.49.35:440][566]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.49.35:442][566]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.49.35
+[2019.11.17-18.49.35:443][566]LogWorld: Bringing up level for play took: 0.001748
+[2019.11.17-18.49.35:457][566]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 1,006
+[2019.11.17-18.49.35:457][566]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.49.37:608][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.49.37:608][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.49.37:623][823]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.49.37:660][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.49.37:660][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.49.37:696][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.17-18.49.37:708][824]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.11.17-18.49.48:405][101]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.11.17-18.49.50:650][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.49.56:504][ 43]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.11.17-18.49.56:753][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.17-18.49.57:401][118]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.17-18.49.57:420][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.49.57:420][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-18.49.57:420][118]PIE: New page: PIE session: Prototype_1 (18 нояб. 2019 г., 0:49:57)
+[2019.11.17-18.49.57:420][118]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1
+[2019.11.17-18.49.57:427][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006460s)
+[2019.11.17-18.49.57:427][118]LogAIModule: Creating AISystem for world Prototype_1
+[2019.11.17-18.49.57:427][118]LogPlayLevel: PIE: World Init took: (0.000397s)
+[2019.11.17-18.49.57:427][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1 to /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 (0.006942s)
+[2019.11.17-18.49.57:457][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.17-18.49.57:474][118]LogInit: XAudio2 using 'Динамики (SteelSeries Siberia Elite)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.11.17-18.49.57:482][118]LogInit: FAudioDevice initialized.
+[2019.11.17-18.49.57:489][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.49.57:517][118]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.17-18.49.57:519][118]LogWorld: Bringing World /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1.Prototype_1 up for play (max tick rate 0) at 2019.11.17-21.49.57
+[2019.11.17-18.49.57:520][118]LogWorld: Bringing up level for play took: 0.001883
+[2019.11.17-18.49.57:532][118]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-18.49.57:533][118]PIE: Play in editor start time for /Game/ThirdPersonBP/MyMaps/01/UEDPIE_0_Prototype_1 1,082
+[2019.11.17-18.49.57:533][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.50.10:524][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.50.10:524][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-18.50.10:541][675]LogSlate: Window 'FrendsInDisaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.17-18.50.10:577][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-18.50.10:577][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1' with GeneratedClass '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1'
+[2019.11.17-18.50.10:617][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.11.17-18.50.10:643][676]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.11.17-18.50.17:026][441]LogMaterialEditor: Saving and Compiling material M_UE4Man_Body_2
+[2019.11.17-18.50.17:074][441]LogSavePackage: Moving '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Saved/M_UE4Man_Body_238E0BD24494B7A9C51DFEBBC06D8DB1A.tmp' to '../../../../../GitProjects/Hackathon/Project/FrendsInDisaster/Content/Mannequin/Character/Materials/M_UE4Man_Body_2.uasset'
+[2019.11.17-18.51.27:736][826]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/MyMaps/01/Prototype_1.Prototype_1:PersistentLevel.Prototype_1
+[2019.11.17-18.52.02:941][962]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.11.17-18.52.03:773][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-18.52.04:270][111]LogUObjectArray: Warning: Other object in slot
+[2019.11.17-18.52.04:270][111]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.17-18.52.04:589][111]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.320 s
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: 
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: Stack: 
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc274bc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc26d36fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc26d44e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc251937f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc24525cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc244e1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc3ccc5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc3ceb15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc3cd0d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc3cceaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc3cce0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc5f51b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc5f50ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc5f51d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc5f50c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7acf63ed USER32.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7acf5de2 USER32.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc5f51e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ff603775d3e UE4Editor.exe!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ff60378554c UE4Editor.exe!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ff6037855ca UE4Editor.exe!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ff60379316c UE4Editor.exe!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ff603795b8e UE4Editor.exe!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7bf97bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: [Callstack] 0x00007ffc7cbeced1 ntdll.dll!UnknownFunction []
+[2019.11.17-18.52.04:589][111]LogOutputDevice: Error: 
+[2019.11.17-18.52.04:625][111]LogStats:                SubmitErrorReport -  0.000 s
